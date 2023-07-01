@@ -9,7 +9,7 @@ h1 {
         border: 1px solid olive;
         margin: 30px auto;
         text-align: center;
-        background-color:darkcyan;
+        background-color:rgb(65, 186, 186);
     
     }
 
@@ -27,4 +27,10 @@ button{
     text-align: center;
     justify-content: center;
     align-items: center;
+}
+
+.danger{
+    color:red;
+    text-align: center;
+    font-size: 20px;
 }
