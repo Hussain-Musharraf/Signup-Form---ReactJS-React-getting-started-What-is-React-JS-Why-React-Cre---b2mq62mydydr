@@ -3,7 +3,25 @@ h1 {
     text-align: center;
     }
     
+    .container{
+        width: 400px;
+        min-height: 300px;
+        border: 1px solid olive;
+        margin: 30px auto;
+        text-align: center;
+        background-color:darkcyan;
+    
+    }
 
+    input,select{
+        display: block;
+        width: 80%;
+        margin: 10px auto;
+        padding: 10px 1px;
+        border: none;
+        background-color: white;
+        border-radius: 5px;
+    }
 button{
     color: #27aedb;
     text-align: center;

@@ -91,7 +91,7 @@ const App = () => {
   };
 
   return (
-    <div>
+    <div className="container">
       <form>
         <div>
         Name:<input type="text" value={getForm.name} onChange={onChangeHandler} data-testid='name' name="name"/>
